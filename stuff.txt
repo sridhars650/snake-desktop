@@ -1,0 +1,8 @@
+top bar size 37 px
+game screen available height 1005
+bottom dock size 74
+
+Game screen real size starts from 45.
+Game screen real height 940; fits 12
+Game screen real width 1730; fits 17
+Game screen real size from bottom from 90
